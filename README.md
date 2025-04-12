@@ -1,4 +1,5 @@
 # 🛍️ Customer Behavior Clustering App
+View the app from here "https://clusterdata-42adatbemwx7i2i4637sac.streamlit.app/"
 
 Group customers into behavioral categories using KMeans clustering. This unsupervised learning project helps segment mall shoppers for targeted marketing.
 
